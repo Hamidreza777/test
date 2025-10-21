@@ -7,7 +7,8 @@ export default function Home() {
   return (
     <>
       <h1 className="bg-red-800 text-[50px] text-center">hello</h1>
-    <h2> in yek test ast</h2>
+      <h2> in yek test ast</h2>
+      <h3>hello</h3>
     </>
   );
 }
